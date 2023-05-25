@@ -1,0 +1,8 @@
+2022-12-24 13:01:40 0 [Note] Reading of all Master_info entries succeeded
+2022-12-24 13:01:40 0 [Note] Added new Master_info '' to hash table
+2022-12-24 13:01:40 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.22-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2022-12-24 15:08:18 43 [Warning] IP address '10.208.26.229' has been resolved to the host name '229.26.208.10.in-addr.arpa', which resembles IPv4-address itself.
+2022-12-24 15:08:18 42 [Warning] IP address '10.208.26.229' has been resolved to the host name '229.26.208.10.in-addr.arpa', which resembles IPv4-address itself.
+2022-12-24 15:08:19 42 [Warning] Aborted connection 42 to db: 'unconnected' user: 'unauthenticated' host: '10.208.26.229' (This connection closed normally without authentication)
+2022-12-24 15:08:19 43 [Warning] Aborted connection 43 to db: 'unconnected' user: 'unauthenticated' host: '10.208.26.229' (This connection closed normally without authentication)
